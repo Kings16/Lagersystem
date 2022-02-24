@@ -1,0 +1,6 @@
+com\occ\demo\resources\JARSRXConfig.class
+com\occ\demo\services\LagerungsPersistenceService.class
+com\occ\demo\Entities\LagerArtikel.class
+com\occ\demo\resources\LagerungsRestResource.class
+com\occ\demo\services\CDIProducer.class
+com\occ\demo\services\LagerungsQueryService.class
